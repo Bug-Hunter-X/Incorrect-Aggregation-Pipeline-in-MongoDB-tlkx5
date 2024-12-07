@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common error in MongoDB aggregation pipelines: using a string instead of a field name within the $group stage.  The `bug.js` file shows the erroneous code, resulting in an unexpected outcome.  The `bugSolution.js` file provides the corrected code and demonstrates the proper usage.
